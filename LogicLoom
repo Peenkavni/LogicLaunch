@@ -1,4 +1,4 @@
-import random # 1
+import random # 
 import strin
 
 def generate_password(length):
